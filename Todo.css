@@ -1,0 +1,41 @@
+body{
+  background-color: black;
+ }
+ .main{
+  margin-left: 250px;
+  border:2px solid rgb(255, 255, 255) ;
+  width: 500px;
+  padding: 100px;
+  background-color: aqua;
+  border-radius: 10px;
+  font-size: 20px;
+  color: rgb(0, 4, 255);
+  text-align: center;
+}
+.name{
+  font-family: cursive;
+  font-weight: bold;
+  color: rgb(0, 0, 0);
+  font-size:30px;
+}
+.main input , button {
+  padding: 10px;
+  font-weight: 900;
+  border: 2px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.items button{
+  margin-left: 150px;
+  padding: 10px;
+  background-color: black;
+  color: red;
+}
+.put{
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+}
+.text {
+  width:250px;
+}
